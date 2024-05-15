@@ -1,4 +1,4 @@
-# I'm Muhammad Fadhlan Aziz
+# Hi 👋, I'm Muhammad Fadhlan Aziz
 
 ### I am a student majoring in informatics engineering at Singaperbangsa University Karawang
 
