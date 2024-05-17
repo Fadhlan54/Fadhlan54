@@ -2,7 +2,7 @@
 
 ### I am a student majoring in informatics engineering at Singaperbangsa University Karawang
 
-- 🔭 I’m currently working on [MOOC APP](https://sinow.vercel.app/)
+- 🔭 I’m currently working on [SINOW MOOC APP](https://sinow.vercel.app/) project
 
 - 🌱 I’m currently learning **React Native in the Digitalent program with Progate**
 
