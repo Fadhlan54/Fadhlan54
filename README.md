@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Fadhlan Aziz
 
-### I am a student majoring in informatics engineering at Singaperbangsa University Karawang
+### I am a student majoring in informatics engineering at University of Singaperbangsa Karawang
 
 - 🔭 I’m currently working on [SINOW MOOC APP](https://sinow.vercel.app/) project
 
